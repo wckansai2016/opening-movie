@@ -4,6 +4,12 @@
 ##Preview
 https://wckansai2016.github.io/opening-movie/
 
+##Screen Shot
+![Opening Movie](./src/img/op-movie_1.png)
+![Opening Movie](./src/img/op-movie_2.png)
+![Opening Movie](./src/img/op-movie_3.png)
+![Opening Movie](./src/img/op-movie_4.png)
+
 ##Attention
 * If you push the play button, the sound start play.  
 * We recommend to open that page by PC browser, such as Google Chrome.
