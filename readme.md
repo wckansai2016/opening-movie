@@ -10,5 +10,5 @@ https://wckansai2016.github.io/opening-movie/
 * There are not included the audio file.That file will load from the another server.
 
 ##License
-GNU General Public License v2 or later
+GNU General Public License v2 or later  
 http://www.gnu.org/licenses/gpl-2.0.html
